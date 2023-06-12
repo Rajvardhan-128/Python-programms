@@ -1,0 +1,12 @@
+1> mutable 
+i]lists
+ii]byte arrays
+iii]sets
+iv]dictionaries.
+
+2> imutable datatypes : 
+i]numeric data types
+ii]strings
+iii]bytes
+iv]frozen sets 
+v]tuples
