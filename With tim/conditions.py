@@ -1,0 +1,8 @@
+print(2 > 3)
+print(2 < 3)
+print("hello " == "hello ")
+print("hello " == "helo ")
+print("\n")
+print("tim" != "hello")
+print(False == True)
+print(2-3+4 > 5)
